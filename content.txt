@@ -1,0 +1,7 @@
+Dear ${PERSON_NAME}, 
+
+2019 is the year which tought us many important lesson. We make many mistakes and also got many achievements. 
+But now we are in the 2020 and this is amazing. I make many promises to me and also I promise to me to make other life financially free.
+So ${PERSON_NAME} if you really want to make your life specail then follow me.
+
+Happy new year ${PERSON_NAME}.
